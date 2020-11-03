@@ -7,7 +7,3 @@ Features:
 
 
 ![](aoe_de.gif)
-
-
-Credits:
-https://github.com/DrNseven/D3D11-Wallhack: for D3D11 IMGUI base
